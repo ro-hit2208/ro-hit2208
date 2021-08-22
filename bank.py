@@ -1,4 +1,4 @@
-# WAP to simaulate bank operations
+# Program to simaulate bank operations
 class Bank:
  def __init__(self,acno,name,balance):
   self.acno=acno
